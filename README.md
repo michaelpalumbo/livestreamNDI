@@ -1,4 +1,4 @@
-# configuring Livesstream, NDI, Zoom.us Video
+# configuring Livestream, NDI, Zoom.us Video
 
 1.  run livestream studio
 2. create an output, under *NDI Outputs*, set it to the (*Program*; sometimes this is *Program PC*)
